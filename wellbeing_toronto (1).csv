@@ -57,7 +57,7 @@
 "Leaside-Bennington",56.0,"N/A",16828.0,441.0,921.0
 "Broadview North",57.0,"N/A",11499.0,365.0,891.0
 "Old East York",58.0,"N/A",9233.0,291.0,777.0
-"Danforth-East York",59.0,"N/A",17180.0,473.0,852.0
+"Danforth Village - East York",59.0,"N/A",17180.0,473.0,852.0
 "Woodbine-Lumsden",60.0,"N/A",7865.0,290.0,614.0
 "Taylor-Massey",61.0,"N/A",15683.0,453.0,1264.0
 "East End-Danforth",62.0,"N/A",21381.0,627.0,2040.0
@@ -90,7 +90,7 @@
 "Runnymede-Bloor West Village",89.0,"N/A",10070.0,267.0,712.0
 "Junction Area",90.0,"N/A",14366.0,558.0,1763.0
 "Weston-Pellam Park",91.0,"N/A",11098.0,245.0,900.0
-"Corso Italia-Davenport",92.0,"N/A",14133.0,416.0,1131.0
+"Corsa Italia-Davenport",92.0,"N/A",14133.0,416.0,1131.0
 "Dovercourt-Wallace Emerson-Juncti",93.0,"N/A",36625.0,894.0,3577.0
 "Wychwood",94.0,"N/A",14349.0,774.0,1467.0
 "Annex",95.0,"N/A",30526.0,1515.0,4338.0
@@ -105,9 +105,9 @@
 "Mount Pleasant West",104.0,"N/A",29658.0,971.0,2534.0
 "Lawrence Park North",105.0,"N/A",14607.0,359.0,706.0
 "Humewood-Cedarvale",106.0,"N/A",14365.0,344.0,792.0
-"Oakwood Village",107.0,"N/A",21210.0,903.0,1790.0
+"Oakwood-Vaughan",107.0,"N/A",21210.0,903.0,1790.0
 "Briar Hill-Belgravia",108.0,"N/A",14257.0,672.0,1562.0
-"Caledonia-Fairbank",109.0,"N/A",9955.0,360.0,799.0
+"Caledonia-Fairbanks",109.0,"N/A",9955.0,360.0,799.0
 "Keelesdale-Eglinton West",110.0,"N/A",11058.0,338.0,834.0
 "Rockcliffe-Smythe",111.0,"N/A",22246.0,793.0,2062.0
 "Beechborough-Greenbrook",112.0,"N/A",6577.0,276.0,837.0
